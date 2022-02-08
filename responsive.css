@@ -1,0 +1,1278 @@
+@media(min-width:1200px){
+   
+    /*navbar*/
+    #navbar-02{
+       margin-left:-60px;
+    }  
+    .navbar-nav{
+        font-size:16px;
+    }
+    .about-para{
+        padding: 35px;
+    }
+    .quality-content{
+        padding: 45px;
+    }
+    .nav-item .nav-link a{
+        font-size:18px;
+    }
+    .quality-div img{
+        height:335px;
+    }
+    .contact-left .heading{
+        margin-top:-3px;
+    }
+    .social-list{
+        margin-top: 0;
+    }
+    .contact-address{
+        margin-top:-20px;
+    }
+    .about-para
+    {
+        
+    }
+    /*medical-kit*/
+    .medical-kit-para{
+           padding: 30px 35px;
+    }
+}
+@media(min-width:992px) and (max-width:1199px){
+     /*navbar*/
+    .row{
+        margin-bottom: 40px;
+    }
+     .heading h1{
+        font-size:35px;
+    }
+     #navbar-02{
+        padding: 0;
+        margin-left: 100px;
+        margin-top: 10px;
+    }
+    .navbar-nav {
+        font-size:16px;
+    }
+    .navbar-nav .navbar-brand img{
+        height:45px;
+        width:75px;
+        margin:0px;
+        padding: 0px;
+    }
+    /*home*/
+    .home-content h1{
+        font-size: 75px;
+    }
+    .home-content p{
+        font-size: 18px;
+    }
+    #home-btn{
+        margin-top: -13px;
+    }
+    .btn-general
+    {
+        font-size: 19px;
+        padding: 6px 22px 6px 22px;
+    }
+    /*about*/
+    .about-para{
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 22px;
+        padding: 29px 30px;
+    }
+    /*product*/
+    #Product
+    {
+        padding-bottom: 20px;
+    }
+    .product-content{
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 22px;
+    }
+    .product-link{
+        margin-top: 20px;
+        margin-left: 65px;
+        font-size: 17px;
+        color: #2bafe3;
+        font-weight: 400;
+        font-size: 17px;
+    }
+    .list-group-item{
+        padding:25px 37px;
+        text-align: center;
+        
+    }
+    .product-link .list-group-item a{
+        margin-left: -5px;
+        margin-top: -10px;
+    }
+    /*testimonials*/
+    .testimonial-heading .heading h1{
+        font-size: 44px;
+        margin-left: -30px;
+    }
+    /*quality*/
+    .quality-image img{
+        height: 346px;
+        width: 425px;   
+    }
+    .quality-img{
+        margin-left:23px;
+    }
+    /*map*/
+    #map{
+        height: 400px;
+        width:400px;
+    }
+    ul.social-list{
+        margin-top:-3px;
+        padding: 0px;
+    }
+    /*internal pages*/
+    .medical-kit-para{
+        color:white;
+        font-size:14px;
+        line-height: 19px;
+        background: #2bafe3;
+        padding: 30px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.7)
+    }
+    .heading h1{
+        font-size: 53px;
+    }
+    #consumables .pharma .medical-kit-image img{
+        height: -375px;
+    }
+    #diagnostic .medical-kit-para{
+        font-size:15.7px;
+        padding-bottom: 50px;
+        line-height: normal;
+    }
+    #equipments .medical-kit-para{
+        font-size:15.7px;
+        padding-bottom: 50px;
+        line-height: normal;
+    }
+    #instruments .medical-kit-para{
+        font-size:15.7px;
+        padding-bottom: 50px;
+        line-height: normal; 
+    }
+    #quality_assurance .medical-kit-para{
+        font-size:15.7px;
+        padding-bottom: 50px;
+        line-height: normal; 
+    }
+    #quality-control .medical-kit-para{
+        font-size:15.7px;
+        padding-bottom: 50px;
+        line-height: normal; 
+    }
+    #code-of-coduct .medical-kit-para{
+        font-size:15.7px;
+        padding-bottom: 50px;
+        line-height: normal; 
+    }
+    #warehouse .medical-kit-para{
+        font-size:15.7px;
+        padding-bottom: 50px;
+        line-height: normal; 
+    }
+    #packaging .medical-kit-para{
+        font-size:15.7px;
+        padding-bottom: 50px;
+        line-height: normal; 
+    }
+}
+
+
+@media (min-width:768px) and (max-width:991px){
+    /*menubar*/
+    #navbarNavDropdown  
+    {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    left:0;
+    background: rgba(255, 255, 255,0.9);
+    }
+    ul.navbar-nav li.nav-item span.nav-link a{
+    color:#0071ad;
+    line-height: 40px;
+    font-weight:400;
+    font-size: 20px;
+    }
+    ul.navbar-nav li.nav-item{
+    text-align: center;
+    }
+    ul.navbar-nav{
+    margin-top: 55px;
+    }
+    ul.navbar-nav li.nav-item{
+    list-style:visible;
+    }
+    .btn-close{
+    display: none;
+    position: absolute;
+    right: 6px;    
+    top:6px;
+    font-size: 50px;
+    color:#0071ad;
+    z-index: 9999;
+    }
+    .navbar-light .navbar-toggler{
+    border-color: rgba(0, 0, 0, 0);
+    }
+    .navbar-nav .navbar-brand img{
+    height: 40px;
+    margin-top: -20px;
+    margin-left: -5px;    
+    }
+    .navbar-toggler-icon{
+    margin-top: -15px;
+    }
+    /*..map...*/
+    #map{
+        width:350px;
+        height: 400px;
+        margin-left:-60px; 
+    }
+    footer ul.social-list{
+        margin-top:5px;
+    }
+    /*...navbar...*/
+    .navbar {
+        width:100%;
+        margin-top:0px;
+    }
+    /*..home..*/
+    .home-content h1{
+        font-size:64px;
+    }
+    .home-content h1 span{
+        font-weight:5; 
+    }
+    .home-content p{
+        font-size:15px;
+        line-height: normal;
+        font-weight:300;
+        margin-bottom:25px; 
+    }
+    /*..about-para..*/
+    .about-para{
+        margin-left:0px;
+        font-size:13px;
+        padding-bottom: 5px;
+    }
+    .about-us-img img{
+        height:419px;
+    }
+    /*....generic-css...*/
+    .heading h1{
+        font-size:35px;
+    }
+
+    /*....product...*/
+    .row{
+        margin-bottom: 40px;
+    }
+    .white-nav-top .nav-item {
+        text-align: center;
+    }
+    .footer-links{
+        margin-left:0;
+        word-spacing:30px;
+    }
+    .footer-02-text{
+        margin-left:0;
+    }
+    .product-content{
+        margin-top:10px;
+    }
+    .product-content p{
+        font-size:15px;
+    }
+    .list-group li{
+        font-size:10px;
+    }
+    .list-group li a{
+        margin-left:-20px;
+    }
+    .product-ul{
+        padding: 15px 15px 15px 15px;
+    }
+    .product-image img{
+        height: 462px;
+        width:600px;
+    }
+    #Product{
+        padding-bottom: 30px;
+    }
+    /*...facts-figures...*/
+    .facts-figure-info i{
+        font-size:30px;
+    }
+    .facts-figure-info h5{
+        font-size:30px;
+    }
+    .facts-figure-info p{
+        font-size:13px;
+    }
+    /*....testimonial...*/
+    .testimonial-heading{
+        margin-left:-30px;
+        margin-top:110px;
+    }
+    .author-name span{
+        font-size:15px;
+    }
+    .author-desigination span{
+        font-size: 15px;
+    }
+    .author-name{
+        margin-top:-10px;
+    }
+     /*....quality....*/
+    .quality-content{
+        font-size:14px;
+        line-height: normal;
+    }
+    .quality-para-02,
+    .quality-para-03{
+        margin-top: 0px;
+    }
+    .quality-image img{
+        height: 310px;
+        width: 519px;   
+    }
+    .quality-div img{
+        width:303px;
+    }
+    /*...contact...*/
+    .contact-left p{
+        font-size:14px;
+        line-height: normal;
+        padding:20px 0px ;
+    }
+    .contactlist{
+        margin-left:-10px;
+        margin-top:15px;
+    }
+    .contactlist h5{
+        font-size:20px;
+    }
+    .contactlist{
+        margin-top:-15px;
+    }
+    ul.address-list li i{
+        font-size: 16px;
+        width: 30px;
+    }
+    .contactlist ul.address-list li{
+        font-size:14px;
+    }
+    /*...footer-02....*/
+    .footer-links{
+        font-size: 12px;
+    }
+    /*...medical-kit...*/
+    .medical-kit-para{
+        font-size:14px;
+        line-height: normal; 
+    }
+    .medical-kit-image img{
+        height:auto;
+        width:100%;
+    }
+    .medical-kit-content h1 {
+        font-family:"Nanum Gothic",sans-serif;
+        font-size:102px;
+    }
+    #medical-kit-information{
+        margin-top:40px;
+    }
+    /*...pharmaceuticals...*/
+    #pharmaceuticals .medical-kit-image  img{
+        height: 381px;
+    }
+    #pharmaceuticals .medical-kit-information{
+        margin-top:-10px;
+    }
+    /*...consumables...*/
+    .pharma .medical-kit-image img{
+        height:390px;
+    }
+    /*...diagnostics...*/
+    #diagnostic .medical-kit-para{
+        padding-bottom: 20px;
+    }
+    /*...instruments...*/
+    #instruments .medical-kit-para{
+        padding-bottom: 10px;
+    }
+    /*...warehouse...*/
+    #warehouse .medical-kit-para{
+        padding-bottom:10px 
+    }
+}
+@media(min-width:576px) and (max-width:767px){
+    #navbarNavDropdown
+    {
+        height: 100%;
+        width: 100%;
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        top: 0;
+        left:0;
+        background: rgba(255, 255, 255,0.9);
+    }
+    ul.navbar-nav li.nav-item span.nav-link a{
+        color:#0071ad;
+    }
+    ul.navbar-nav li.nav-item{
+        text-align: center;
+    }
+    ul.navbar-nav{
+        margin-top: 55px;
+    }
+    ul.navbar-nav li.nav-item{
+        list-style:visible;
+    }
+    .btn-close{
+        display: none;
+        position: absolute;
+        right: 6px;    
+        top:6px;
+        font-size: 50px;
+        color:#00aced;
+        z-index: 9999;
+    }
+    
+    .navbar-light .navbar-toggler{
+        border-color: rgba(0, 0, 0, 0);
+    }
+
+    .navbar-nav .navbar-brand img{
+        height:50px;
+        width:80px;
+        margin-top: 0px;
+        padding: 0px;
+    }
+    /*home*/
+    .home-content h1 {
+        font-size: 65px;
+        font-weight: 400;
+    }
+    .home-content h1 strong {
+        font-weight: 600;
+    }
+    .home-content p{
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+    #home-overlay{
+        position:absolute;
+    }
+    .btn-general
+    {
+        font-size: 16px;
+        text-transform: uppercase;
+        border: 2px solid #fff;
+        padding: 4px 18px 4px 18px;
+        border-radius: 50px;
+        margin: 0px 6px;
+        transition: all 0.5;
+    }
+
+    /*about*/
+    #about{
+        padding-top: 10px;
+    }
+    
+    .about-para{
+        font-size: 15px;
+        font-weight: 400;
+        line-height: normal;
+        margin-left: 15px;
+        padding-top: 25px;
+        padding-left: 35px;
+        padding-right: 15px;
+        padding-bottom: 25px;      
+    }
+    
+    .about-us-img{
+        margin-left: 10px;
+    }
+
+    .about-us-img img{        
+        height: 300px;
+        width: 450px;
+    }
+    /*product*/
+    .white-nav-top .nav-item {
+        text-align: center;
+    }
+    .footer-links{
+        margin-left:0;
+        word-spacing:30px;
+    }
+    #Product {
+        padding-bottom: 20px;
+    }
+    .heading h1{
+        font-size: 40px;
+    }
+    .product-content{
+        margin-top: 20px;
+        font-size: 14px;
+        line-height: normal;
+        font-weight: 350;
+    }
+    .product-link{
+        margin-top: 20px;
+        margin-left: 65px;
+        font-size: 20px;
+        color: #2bafe3;
+        font-weight: 350;
+        font-size: 17px;
+        margin-bottom: 20px;
+    }
+    .product-image img{
+        width: auto;
+        height: 300px;
+    }
+    
+    .product-link{
+        margin-left:30px;
+    }
+    
+    .Product-ul{
+        margin-left:-19px;
+    }
+    
+    .list-group-item{
+        padding:27px 57px;
+    }
+    .Product-ul{
+        margin-top:-15px;
+        
+    }
+    .list-group{
+        margin-left:45px;
+    }    
+    /*facts & figures*/
+    #facts-figure-01 .heading h1{
+        font-size:40px;
+    }
+
+    .facts-figure-info{
+        padding:10px 10px;
+        margin:15px 0px;
+    }
+    
+    .facts-figure-info i{
+        font-size:25px; 
+    }
+    
+    .facts-figure-info h5{
+        font-size: 25px;
+        font-weight:400; 
+        margin-bottom:3px;
+    }
+    
+    .facts-figure-info p{
+        font-size:14px;
+        font-weight: 400;
+    }
+
+    /*testimonials*/
+    #testimonials{
+        padding-top:20px;
+        margin-bottom: -50px;
+    }
+    .author{
+        padding: 20px 50px;
+        transform: translateY(35px);
+    }
+    .author-icons{
+        margin-top: 3px;
+    }
+    .author-desc{
+        margin-top: 20x;
+        font-size: 17px;
+        line-height: normal;
+        font-weight: 300;
+    }
+    .author-img-name{
+        margin-top: 30px;
+    }
+    .author-name{
+        font-size: 13px;
+        margin-top: 1px;
+    }
+    .author-desigination{
+        font-size: 13px;
+        line-height: normal;
+    }
+    /*quality*/
+    .quality-content{
+        font-size:10px;
+        line-height: normal;
+    }
+    .quality-para-02,
+    .quality-para-03{
+        margin-top: 0px;
+    }
+    .quality-div img{
+        width:212px;
+        height:307px;
+    } 
+    .quality-img img{
+        height: 307px;
+    }
+    /*contact*/
+    #contact{
+        margin-top:-50px;
+        padding-top:-200px;
+           }
+    ul.social-list{
+        text-align: center;
+    }
+    /*contact-right*/
+    #contact-right{
+        margin-top: 20px;
+    }
+    #contact-right  p{
+        font-size:15px;
+    }
+    #contact-btn .btn-blue{
+        font-size: 16px;
+        padding: 6px 30px 6px 30px;
+        font-weight: 400;
+    }
+    /*subscribe*/
+    #subscribe{
+       padding-bottom: -35px;
+    }
+    .form-info{
+        margin-top: 3px;
+        margin-left:20px;
+    }
+    .subscribe-info{
+        margin-top:-20px;
+        margin-left:20px;
+   }
+    #subscribe .btn-general
+    {
+        font-size: 16px;
+        padding: 6px 20px 6px 20px;
+        margin-top:23px;
+        margin: 0px 6px;
+        font-weight: 400;
+    }
+    
+        /*map*/
+        #map{
+            margin-left: -50px;
+            height: 350px;
+            width:500px;
+        }
+        
+        /*footer*/
+    
+    .footer-img{
+        margin-left:43%;
+    }
+    
+    .footer-links{
+        font-size:12px;
+        margin-top:-20px;
+        word-spacing:20px;
+       
+    }
+    .footer-02-text {
+        word-spacing:0px;
+        margin-left:0;
+    }
+    .footer-links a{
+        line-height:30px;
+    }
+    #back-to-top{
+        display: none !important;
+    }    
+    /*internal pages*/
+    .medical-kit-para{
+        margin-top: -20px;
+        font-size:16px;
+        line-height: normal;
+        padding: 25px 20px 0px 20px;
+        margin-bottom: 20px;
+    }
+}
+/*@media(min-width:649px) and (max-width:767px){
+    .footer-links{
+        margin-top: -20px;
+        word-spacing: 10px;
+        margin-left: 90px;        
+    }
+}*/
+@media(max-width:575px){
+    /*...menubar...*/
+    #navbarNavDropdown
+    {
+    padding-top:55px; 
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    left:0;
+    background: rgba(255, 255, 255,0.9);
+    }
+    ul.navbar-nav li.nav-item span.nav-link a{
+    color:#0071ad;
+    }
+    ul.navbar-nav li.nav-item{
+    list-style:visible;
+    }
+    .btn-close{
+    display: none;
+    position: absolute;
+    right: 6px;    
+    top:6px;
+    font-size: 50px;
+    color:#00aced;
+    z-index: 9999;
+    }
+
+    .navbar-light .navbar-toggler{
+    border-color: rgba(0, 0, 0, 0);
+    }
+    /*home*/
+    .home-content h1 {
+        font-size: 65px;
+    }
+
+    .home-content p{
+        font-size: 15px;        
+        line-height: 24px;
+        font-weight: 300;
+        margin-bottom: 17px;
+        word-spacing: 6px;
+    }
+    
+        .btn-general
+    {
+        font-size: 18px;
+        padding: 6px 17px 6px 17px;
+    }
+
+    .heading h1{
+        font-size: 40px;
+    }
+    
+    .heading h2{
+        font-size: 20px;
+    }
+
+    /*about*/
+
+    #about{
+        padding-top: 20px;
+    }
+    
+    .about-para{
+        margin-top: 20px;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 25px;                
+        margin-left: -1px;        
+        padding: 30px 30px;
+    }
+    
+    .about-us-img img{
+        height: 350px;
+        width: 350px;    
+    }
+    
+    /*products*/
+
+    #Product {
+        padding-bottom: 20px;
+    }
+    .product-content{
+        margin-left: 10px;    
+        text-align: left;
+    }
+    .product-heading{
+        text-align: center;
+    }
+    .product-link{        
+        margin-bottom: 20px;
+        font-size: 15px;        
+        font-weight: 400;          
+    }
+    
+    .product-div{
+        margin:0 37px;
+    }
+
+    .product-image{
+        margin: 0 10px;
+    }
+
+    .product-image img{
+        width: 550px;
+        height: 350px;
+    }
+
+    
+    /*facts-figure*/
+
+    .facts-div{
+        margin: 10px 0;
+    }
+    #facts-figure-01 .heading h1{
+        font-weight: 350;
+        font-size:35px;
+    }
+    #facts-figure-01 .heading{
+        text-align: center;
+    }
+    #facts-figure-01{
+        padding:20px 20px;
+        margin-left:-30px;
+        margin-top:-50px;
+    }
+    .facts-figure-info i{
+        font-size:35px; 
+    }
+    .facts-figure-info h5{
+        font-size: 35px;
+        font-weight:350; 
+    }
+    .facts-figure-info{
+        margin-bottom: 30px;
+    }
+    .facts-figure-info p{
+        font-size:17px;
+        font-weight: 400;
+    }
+    
+    /*testimonials*/
+
+    #testimonials{
+        padding-top:0px;
+        margin-bottom: 0px;
+    }
+    
+    .author{
+        margin-left:0px;
+        padding: 50px 50px;        
+        transform:translateY(30px);        
+    }
+    
+    .author-name{
+        margin-top: -3px;
+        margin-left: -60px;
+        font-size: 16px;
+    }
+    .author-desigination{
+        margin-left: -60px;
+        font-size: 16px;
+    }
+    .owl-carousel .owl-item img{
+        width:50%;
+    }
+    .author-img img{
+        height:50px;
+        width:20px;
+    }
+    /*quality*/
+
+    .quality-info{
+        margin-top: 60px;
+    }
+    
+    .quality-image img{
+        height: 300px;
+        margin-top: 15px;
+        width: 536px;  
+        margin-left:2px; 
+        margin-right:3px;
+    }
+    
+    .quality-img{
+        margin-left:0px;
+    }
+
+    .quality-img img{
+        margin-top: -15px;
+        margin-bottom: 15px;
+    }
+    
+    .quality-content{
+        font-size: 16px;
+        margin-left:2px;
+        margin-right:2px;
+        padding: 30px 10px;
+        text-align: center;
+    }
+    .quality-con{
+        margin-left: 0px;
+    }
+    .quality-para-02,
+    .quality-para-03{
+        margin-top: 35px;
+    }
+    .quality-space{
+        margin-top: 30px;
+    }
+    
+    /*contact*/
+
+    #contact{
+        margin-top:-70px;        
+    }
+
+    li{
+        text-align: center !important;
+    }
+
+    .contactlist ul.address-list li{
+        text-align:center;
+    }
+    .social-list{
+        text-align: center;
+    }
+
+    /*contact-right*/
+    
+    #contact-right{
+        margin-top: 20px;
+    }
+
+    #contact-right  h3{
+        font-size:25px;        
+    }
+    
+    #contact-right  p{
+        font-size:13px;
+    }
+    
+    #contact-btn .btn-blue{        
+        font-size: 16px;
+        padding: 6px 25px 6px 25px;                
+        font-weight: 400;
+    }
+    #contact-right{
+        margin-bottom: -40px;
+    }
+
+    .contactlist ul.address-list li{
+        display: inherit;
+    }
+
+    /*subscribe*/
+
+    .form-info{
+        margin: 0 70px;
+        margin-bottom: 15px;
+    }
+    .subscribe-info{
+        margin: 0 70px;                
+    }
+    
+     #subscribe .btn-general
+    {
+        margin: 0 70px;
+        font-size: 16px;
+        padding: 6px 20px 6px 20px;        
+        font-weight: 400;
+    }
+    
+    /*map*/
+
+    #map{
+        height: 250px;
+        width:400px;
+    }
+    
+    .gmap{
+        padding-left: 27px;
+    }
+    
+    /*footer*/
+    .contact-left{
+        text-align: center;
+    }
+    .footer-img{
+        height: 120px;
+        margin-top: 30px;
+        width: 120px;
+        margin-left:46%;
+    }
+    .footer-links{
+        margin-left: 0px;
+        word-spacing: 7px;
+        font-size: 15px;
+        margin-bottom: 50px;
+    }
+
+    .footer-02-text{
+        margin: 0;
+        padding: 0;
+    }
+    .footer-02-text h1{
+        text-align: center;
+        font-size: 16px;
+    }
+    .footer-img{
+        margin-left:40%;
+    }
+    #back-to-top{
+        display: none !important; 
+    }
+
+    /*internal pages*/
+    .medical-kit-para{
+        padding: 15px 20px;
+        font-size:16px;
+        margin-bottom: 20px;                
+    }
+    
+    #medical-kit-information{
+        margin-top: 60px;
+    }
+    .owl-carousel{
+        display: inline;
+    }
+    
+    .medical-kit-image img{
+        height: auto;
+        width:100%;
+    }
+    
+}
+
+@media (max-width: 575px)
+{
+    .contact-left p {
+        font-size: 15px;
+    }
+}
+@media(max-width:420px){
+    #map{
+        width:300px;
+        margin-left: -30px;
+    }
+    .home-content{
+        font-size:40px;
+    }
+}
+@media(min-width:300px) and (max-width:529px){
+   /*homr*/
+   .home-content h1{
+        font-size:45px;
+   }
+   .home-content p{
+       margin-top:-5px;
+       line-height: 20px;
+       word-spacing: normal;
+   }
+   .btn-general{
+       font-size: 15px;
+       margin-top:-40px;    
+   }
+    #map{
+        width:220px;
+        height:200px;
+    }
+    .navbar-nav .navbar-brand img{
+        height:40px;
+        width:80px;
+        margin-left:-20px;
+        padding: 0px;
+    }
+    #navbar-02{
+        padding: 0px;
+    }
+    span.navbar-toggler-icon{
+        margin-top: 19px;        
+    }
+    .heading h1 {
+
+        font-size:30px;
+    }
+    .product-heading .heading h1{
+        margin-bottom: 5px;
+    }
+    /*product*/
+    .product-list{
+        margin-left:-19px ;
+    }
+    .product-image{
+        margin-bottom: 40px;
+    }
+    /*testimonials*/
+    #testimonials{
+        padding-top:20px;        
+    }
+    .testimonial-heading{
+        margin-top:-30px;
+    }
+    
+    .author{        
+        transform: translateY(50px);
+    }
+    
+    .author-icons{     
+        margin-top: 3px;   
+        font-size: 13px;
+    }
+    
+    .author-desc{        
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 19px;
+    }
+    .author-img-name{
+        margin-top: 30px;
+    }
+    
+    .author-name{
+        margin-top: -3px;
+        font-size: 13px;
+        margin-left: 5px;
+    }
+    .author-desigination{
+        font-size: 13px;
+        margin-left: 5px;
+    }
+    .author-img img{
+        height: 50px;
+        width: 300px !important;
+    }
+    .owl-carousel .owl-item img{
+        width: 100%;
+    }
+    /*facts and figures*/
+    #facts-figure-01 .heading{
+        margin-bottom: 40px;
+        text-align: center;
+     
+    }
+    /*contact*/
+    .contact-left p{
+        font-size:14px;
+    }
+    #contact-right h3{
+        text-align: center;
+    }
+    #contact-right p{
+        text-align: center;
+    }
+    /*subscribe*/
+    .form-info{
+        margin-left:0px;
+    }
+    .subscribe-info{
+        margin-top:-40px;
+        margin-left:0px;
+    }
+    .subscribe-info h3{
+        font-size: 14px;
+    }
+    
+     #subscribe .btn-general
+    {
+        font-size: 15px;
+        margin: 0;
+        padding: 6px 20px 6px 20px;
+        font-weight: 400;
+    }
+    /*about*/
+    #about-01 .heading{
+        margin-bottom: 30px;
+    }
+    /*form*/
+    .form-control{
+        height:38px;
+    }
+    /*internal pages*/
+    .medical-kit-para{
+        font-size: 14px;
+        line-height: normal;
+    }    
+   .heading h1{
+        font-size: 35px;
+        margin-bottom:-30px;
+    }
+    .footer-img {
+        margin-left:27%;
+    }
+    .footer-02-text h1{
+        font-size:13px;
+    }
+    .footer-link{
+        font-size:11px;
+    }
+    ul.navbar-nav .nav-item{
+        text-align: center;
+    }
+}
+@media(min-width:375px) and (max-width:529px){
+    #map{
+        width:280px;
+    }
+}
+@media(min-width:414px) and (max-width:529px){
+    #map{
+        width:320px;
+    }
+    .contact-left .heading {
+        margin-bottom: 30px;
+    }
+}
+@media(min-width:360px) and (max-width:529px){
+    #map{
+        width:280px;
+    }
+    .contact-left .heading {
+        margin-bottom: 30px;
+    }
+}
+@media(min-width:320px) and (max-width:529px){
+    .footer-link{
+        font-size: 9px;
+        font-weight: 400;
+    }
+}
+@media(min-width:1024px) and (max-width:1200px){
+    .element-style{
+        height: -400px;
+    }
+    #consumables element.style {
+        height: -370px;
+    } 
+}
+
+@media only screen and (max-width : 880px) { 
+    #secondary_nav {
+      width: 100%;
+     height: 12px;
+     padding-top: 16px;
+     position: absolute; /* Try with absolute positioning*/
+     bottom: 0;
+     left: 0;
+    }
+}

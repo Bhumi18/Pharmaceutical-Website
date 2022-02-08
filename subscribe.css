@@ -1,0 +1,52 @@
+/*...content box..*/
+.content-box-md{
+    margin:0px 0;
+}
+
+/*..button-css...*/
+
+.btn-general
+{
+    font-size: 20px;
+    text-transform: uppercase;
+    border: 2px solid #2bafe3;
+    padding: 6px 24px 6px 24px;
+    border-radius: 50px;
+    margin: 0px 6px;
+    transition: all 0.5;
+    background-color: #2bafe3;
+    font-weight: 500;
+}
+
+.btn-home
+{
+    color: #fff;
+}
+#subscribe{
+    padding:20px 20px;
+    background:#2bafe3;
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom: 0;
+}
+.subscribe-info{
+    margin-bottom: 50px;
+    margin-top:20px; 
+}
+
+.subscribe-info h4{
+    font-size: 25px;
+    word-spacing: 4px;
+}
+
+#subscribe-id{
+    position: absolute;
+    background:whitesmoke;
+    margin-left:330px;
+    margin-top:-40px;  
+    padding: 80px 80px;
+    border-radius: 6px;
+    box-shadow: 0 0 10 50 rgba(0,0,0,0.1);
+}

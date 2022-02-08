@@ -1,0 +1,229 @@
+/*...medical-kit...*/
+
+.heading{
+    color:#2bafe3;
+
+}
+.bg-light{
+    background: white !important;
+}
+.nav-item .nav-link a{
+    color:#0071ad !important;
+}
+.medical-kit-para{
+    color:white;
+    font-size:20px;
+    line-height: normal;
+    background: #2bafe3;
+    padding: 21px 35px;
+    font-size: 17px;
+    line-height: 25px;
+    padding:24px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.7)
+}
+
+#medical-kit-information{
+    margin-top: 60px;
+}
+.owl-carousel{
+    display: inline;
+}
+
+.medical-kit-image img{
+    height: auto;
+    width:100%;
+}
+
+.pharma .medical-kit-image img{
+    height: 375px;
+}
+/*generic css*/
+
+.content-box-md{
+    padding: 90px 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family:"Nanum Gothic",sans-serif;
+    font-size:52px;
+}
+/*..........nav bar...........*/
+.dropbtn {
+   
+    color: white;
+    font-size: 16px;
+  }
+  
+   /*a{
+      color:white;
+  }*/
+
+  .navbar{
+      margin-top:-15px;
+  }
+
+  .nav-item .nav-link a{
+      color:#212226;
+      font-weight: 500;
+  }
+
+  #navbar-02{
+      padding-left:240px;
+  }
+  .nav-item{
+      padding:0px 10px;
+  }
+  
+  .navbar-nav{
+    font-size: 20px;
+    }
+
+    .navbar-nav .navbar-brand{
+        margin:20px 30px 0 30px;
+    }
+
+  
+ .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  
+  .dropdown-content a {
+    color: black;
+    padding: 10px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  
+  .dropdown-content a:hover {background-color:white;
+}
+  
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  
+  .dropdown:hover .dropbtn {background-color: #d7f6fa;
+color: white;}
+
+.dropdown-content a{
+    font-size: 15px;
+    font-weight: 500;
+}
+  .navbar-nav .navbar-brand img{
+      height:50px;
+      width:80px;
+      margin:0px;
+      padding: 0px;
+  }
+
+  .nav-item a:hover{
+    color:#2bafe3;
+    font-weight: 500;
+    text-decoration:none;
+  }
+
+  .navbar-light .navbar-nav .nav-link:hover{
+      color: #2bafe3;
+  }
+  .navbar{
+     width:100%;
+        position:fixed;
+        top:0;
+        left:0; 
+    }
+
+    .bg-light{
+        background:transparent !important;
+    }
+
+    .white-nav-top{
+        background: white !important;
+        padding: 0px;
+        z-index: 9999;
+        box-shadow: 0 1px 10px rgba(0, 0, 0, 0.9);
+    }
+  
+    .white-nav-top .nav-item span.nav-link a{
+        color:#2bafe3;
+        font-weight: 500;
+    }
+
+    .white-nav-top .nav-item span.nav-link a:hover{
+        color: #2bafe3;
+    }
+
+/*.........footer 02..................*/
+footer .container-fluid{
+    background-color:ghostwhite;
+}
+
+.footer-img{
+    height: 100px;
+    margin-top: 30px;
+    width: 100px;
+    margin-left:46%;
+}
+
+.footer-links{
+    margin-bottom: 50px;
+    
+}
+
+.footer-link a{
+    color: #0071ad;
+}
+
+.footer-link a:hover{
+    text-decoration: none;
+    color: #212226;
+}
+
+.footer-02-text{    
+    text-transform: uppercase;
+    color: #212226;
+    word-spacing: 4px;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
+.footer-02-text h1{
+    font-size: 13px;
+}
+
+.back-top{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+#back-to-top{
+    background: #0071ad;
+    color: white;    
+    font-size: 20px;
+    display: none;
+}
+
+.logo-gone{
+    display: none;
+}
+
+.btn-close{
+    display: none;
+}

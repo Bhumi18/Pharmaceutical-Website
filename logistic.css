@@ -1,0 +1,59 @@
+/*warehouse*/
+.warehouse-heading {
+    margin-bottom: 50px;
+    margin-left: 400px;
+}
+
+.warehouse-heading .heading{
+    color: #2bafe3;
+}
+
+.warehouse-content{
+    font-size: 16px;
+    line-height: 20px;
+    padding: 50px 30px;
+    border-radius: 15px;
+    background-color: #fafafa;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.9);
+    color: #0071ad;
+}
+
+.warehouse-image{
+    margin-top: 107px;
+}
+
+.warehouse-image img{
+    height: 290px;
+    border-radius: 6px;
+    width: 500px;
+}
+
+/*packageing*/
+.pack-heading{
+    margin-bottom: 50px;
+    margin-left: 400px;
+}
+
+.pack-heading.heading{
+    color: #2bafe3;
+}
+
+.pack-content{
+    font-size: 16px;
+    line-height: 20px;
+    padding: 50px 30px;
+    border-radius: 15px;
+    background-color: #fafafa;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.9);
+    color: #0071ad;
+}
+
+.pack-image{
+    margin-top: 107px;
+}
+
+.pack-image img{
+    height: 290px;
+    border-radius: 6px;
+    width: 500px;
+}
